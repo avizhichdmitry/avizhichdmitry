@@ -1,13 +1,9 @@
-## Web Development<br>for a simple monthly fee
-
-We writing HTML, React, and WordPress code for agencies, designers, and software developers
-
-Speed. Quality. Reliability. These three qualities are our unbreakable commandments, which helps us to achieve the best results for our clients
-
-No contracts, no meetings, private slack channel, cancel anytime
+Helping agencies, designers, and software developers bring their ideas to life with high-quality code, delivered with speed and reliability.
 
 <hr>
 
-### Contact
+### Portfolio
 [avidev.team](https://avidev.team)  
+
+### Contact
 [hey@avidev.team](mailto:hey@avidev.team)  
