@@ -1,3 +1,5 @@
+# Dmitry Avizhich | CEO & Founder @ Avidev
+
 Helping agencies, designers, and software developers bring their ideas to life with high-quality code, delivered with speed and reliability.
 
 <hr>
@@ -7,3 +9,5 @@ Helping agencies, designers, and software developers bring their ideas to life w
 
 ### Contact
 [hey@avidev.team](mailto:hey@avidev.team)  
+
+
